@@ -1,0 +1,38 @@
+body{
+    background: blue;
+    font-family: Arial, Helveitca, sans-serif;
+}
+
+.containter {
+    width: 70%;
+    margin: 10px auto;
+    }
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+ol {
+    list-style-type: numeric;
+    }
+
+ol ol {
+    list-style-type: upper-roman;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ul ul {
+    list-style-type: none;
+}
+
+dt {
+    color: darkred
+}
+
+dd {
+    color: white
+}
