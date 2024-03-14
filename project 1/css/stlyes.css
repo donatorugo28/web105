@@ -1,0 +1,50 @@
+body{
+    background-color:dimgray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height:2;
+    font-size: large;
+}
+
+h1, h2, h3, h4{
+    color:cornflowerblue;
+    font-weight: 700;
+    text-align: center;
+}
+
+nav{
+    text-align:center;
+    font-size:large;
+}
+
+nav a{
+    text-decoration:none;
+    margin-left: 20px;
+    background-color:black;
+    color:cornflowerblue
+    border-radius 10px;
+    border: 2px solid dimgray;
+}
+
+nav a:hover{
+    background-color:dimgrey;
+    color:cornflowerblue;
+}
+
+main img{
+    width: 35%;
+    height: auto;
+    /*center the image */
+    display:block;
+    margin: 10px auto;
+}
+
+#dj{
+    width: 25%;
+}
+a{
+    color: cornflowerblue;
+}
+
+footer{
+    text-align: center;
+}
